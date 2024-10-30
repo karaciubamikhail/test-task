@@ -1,0 +1,18 @@
+.contacts{
+    margin: 0 auto;
+    max-width: 1045px;
+    margin-top: 184px;
+}
+.contacts-header{
+    font-family: "Montserrat", sans-serif;
+    font-size: 58px;
+    font-weight: 700;
+    line-height: 80px;
+    color:#252B42;
+}
+@media(max-width:800px){
+    .contacts{
+        padding: 10px;
+        margin-top: 37px;
+    }
+}

@@ -1,0 +1,19 @@
+.login, .ReactModal__Content{
+    margin: 0 auto;
+    max-width: 400px;
+    max-height: 200px;
+}
+.login-header{
+    color: black;
+    font-family: "Montserrat", sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;
+}
+.form-login{
+    display: flex;
+    flex-direction: column;
+}
+.form-login__btn{
+    margin-top: 20px;
+}
